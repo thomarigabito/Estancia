@@ -190,7 +190,7 @@ export default function Dashboard({ stats }: DashboardProps) {
                         Online ambulance bookings require MDRRMO approval. For
                         urgent emergencies, contact your local emergency
                         response service directly instead of waiting for online
-                        booking approval.
+                        booking approvals.
                     </p>
                 </div>
             </div>
